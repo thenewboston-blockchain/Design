@@ -55,7 +55,7 @@ Links to figma files for contributors:
 
 ### Marketing and Infographics
 
-#### Socail Media Template
+#### Social Media Template
 [Click to view file](https://www.figma.com/file/TyQ1VhTRc4afAXipPJFMKT/Infographics)
 
 #### Infographics
