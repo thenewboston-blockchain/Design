@@ -7,7 +7,7 @@ Links to figma files for contributors:
 * [Main Web Spec](#main-web-spec)
 * [Main App Spec](#main-app-spec)
 * [Design System](#design-system)
-* [Marketing and Infographics](#marketing)
+* [Marketing and Infographics](#marketing-and-infographics)
 
 ### Main Web Spec
 
