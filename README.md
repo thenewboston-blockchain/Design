@@ -23,9 +23,6 @@ Links to figma files for contributors:
 #### Teams V2
 [Click to view file](https://www.figma.com/file/SIc8HUnq7mDy7T1cWrKaG8/Teams-V2)
 
-#### Project Proposals
-[Click to view file](https://www.figma.com/file/F9sI5Lw376V7hy5RGXUXNb/Project-Proposals)
-
 ### Main App Spec
 
 #### Desktop App
